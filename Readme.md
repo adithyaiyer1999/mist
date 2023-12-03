@@ -1,5 +1,7 @@
 # MIST (MIcrostrusture STatistics): A open source library in Python for the analysis of anisotropic microstructures
 
+This is the official implementation from our paper : https://link.springer.com/article/10.1007/s12046-022-02036-5
+
 The MiSt library can be used for the analysis of both experimental and simulated microstructures. The algorithms implemented in the library have been described in the paper available at the link here.
 
 ## Installation Guide
